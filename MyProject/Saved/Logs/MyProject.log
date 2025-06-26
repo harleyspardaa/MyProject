@@ -1104,3 +1104,58 @@ The project directory:
 [2025.06.26-14.24.41:782][924]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2025.06.26-14.24.41:782][924]LogShaderCompilers: Display: Material Cache Hits: 34 (23%)
 [2025.06.26-14.24.41:782][924]LogShaderCompilers: Display: ================================================
+[2025.06.26-14.27.31:284][410]LogEditorViewport: Clicking Background
+[2025.06.26-14.27.46:228][759]Cmd: POLY SELECT ADJACENT WALLS
+[2025.06.26-14.28.03:144][107]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.26-14.28.10:581][670]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.06.26-14.28.11:389][735]Cmd: TRANSACTION UNDO
+[2025.06.26-14.28.11:389][735]LogEditorTransaction: Undo Move Elements
+[2025.06.26-14.28.11:820][742]Cmd: TRANSACTION UNDO
+[2025.06.26-14.28.11:820][742]LogEditorTransaction: Undo Move Elements
+[2025.06.26-14.28.16:051][ 69]Cmd: POLY SELECT ALL
+[2025.06.26-14.35.00:965][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.26-14.35.08:426][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.06.26-14.35.08:444][349]LogStall: Shutdown...
+[2025.06.26-14.35.08:448][349]LogStall: Shutdown complete.
+[2025.06.26-14.35.08:474][349]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2025.06.26-14.35.08:637][349]Cmd: QUIT_EDITOR
+[2025.06.26-14.35.08:637][350]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.26-14.35.08:651][350]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.26-14.35.08:652][350]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.26-14.35.08:652][350]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.26-14.35.08:657][350]LogWorld: UWorld::CleanupWorld for DarkGame, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-14.35.08:657][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-14.35.08:657][350]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/DarkGame.DarkGame
+[2025.06.26-14.35.08:657][350]LogContentBundle: [DarkGame(Standalone)] Deleting container.
+[2025.06.26-14.35.08:658][350]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2025.06.26-14.35.08:658][350]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2025.06.26-14.35.08:676][350]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.26-14.35.08:686][350]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-14.35.08:686][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-14.35.08:686][350]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.26-14.35.08:686][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.26-14.35.08:844][350]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.26-14.35.08:859][350]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.06.26-14.35.08:859][350]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.06.26-14.35.08:859][350]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.06.26-14.35.08:863][350]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.26-14.35.08:863][350]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.26-14.35.08:863][350]LogAudio: Display: Audio Device unregistered from world 'DarkGame'.
+[2025.06.26-14.35.08:863][350]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.26-14.35.08:868][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.26-14.35.08:870][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.06.26-14.35.08:881][350]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.26-14.35.08:881][350]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.26-14.35.08:882][350]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.06.26-14.35.08:886][350]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.26-14.35.08:886][350]LogExit: Preparing to exit.
+[2025.06.26-14.35.08:934][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.26-14.35.09:993][350]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.26-14.35.10:035][350]LogExit: Editor shut down
+[2025.06.26-14.35.10:037][350]LogExit: Transaction tracking system shut down
+[2025.06.26-14.35.10:455][350]LogExit: Object subsystem successfully closed.
+[2025.06.26-14.35.10:537][350]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.26-14.35.10:937][350]MemoryProfiler: Shutdown
+[2025.06.26-14.35.10:939][350]NetworkingProfiler: Shutdown
+[2025.06.26-14.35.10:939][350]LoadingProfiler: Shutdown
+[2025.06.26-14.35.10:940][350]TimingProfiler: Shutdown
