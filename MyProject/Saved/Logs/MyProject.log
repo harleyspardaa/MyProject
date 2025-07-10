@@ -3654,3 +3654,47 @@ Make sure '/Game/Chraricterinnit/BP_PLAYER.BP_PLAYER_C' has been compiled for  G
 [2025.07.10-11.54.54:304][361]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
 [2025.07.10-11.54.54:312][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2025.07.10-11.54.54:376][362]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2025.07.10-11.56.20:509][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.07.10-11.56.40:341][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ui/mainmenu_Auto7
+[2025.07.10-11.56.40:341][823]LogSavePackage: Moving '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/mainmenu_Auto74C609D6C410F818EC6647B8723C2DA67.tmp' to '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/Autosaves/Game/ui/mainmenu_Auto7.umap'
+[2025.07.10-11.56.40:342][823]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ui/mainmenu' took 19.855
+[2025.07.10-11.56.40:342][823]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 19.855
+[2025.07.10-11.56.40:342][823]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/image] ([1] browsable assets)...
+[2025.07.10-11.56.40:344][823]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/image.image]
+[2025.07.10-11.56.40:344][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/image]
+[2025.07.10-11.56.40:344][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/image" FILE="../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/Autosaves/Game/image_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.07.10-11.56.40:346][823]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/image_Auto7
+[2025.07.10-11.56.40:346][823]LogSavePackage: Moving '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/image_Auto780D78D0148D10FC87EABAC832F550B8B.tmp' to '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/Autosaves/Game/image_Auto7.uasset'
+[2025.07.10-11.56.40:347][823]LogFileHelpers: Auto-saving content packages took 0.005
+[2025.07.10-11.57.51:732][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.07.10-11.57.51:737][431]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.10-11.57.51:809][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.07.10-11.57.51:814][431]LogSavePackage: Moving output files for package: /Game/ui/mainmenu
+[2025.07.10-11.57.51:815][431]LogSavePackage: Moving '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/mainmenu4304EBB94209E5DA281E3883F7C8CD54.tmp' to '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Content/ui/mainmenu.umap'
+[2025.07.10-11.57.51:822][431]LogFileHelpers: Saving map 'mainmenu' took 0.048
+[2025.07.10-11.57.51:823][431]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Chraricterinnit/NewAnimBlueprint] ([2] browsable assets)...
+[2025.07.10-11.57.51:823][431]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chraricterinnit/NewAnimBlueprint]
+[2025.07.10-11.57.51:829][431]LogSavePackage: Moving output files for package: /Game/Chraricterinnit/NewAnimBlueprint
+[2025.07.10-11.57.51:830][431]LogSavePackage: Moving '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/NewAnimBlueprintE438AD264E97D399F5A9E7AB320D12DF.tmp' to '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Content/Chraricterinnit/NewAnimBlueprint.uasset'
+[2025.07.10-11.57.51:830][431]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Chraricterinnit/NewAnimMontage] ([1] browsable assets)...
+[2025.07.10-11.57.51:830][431]OBJ SavePackage: Finished generating thumbnails for package [/Game/Chraricterinnit/NewAnimMontage]
+[2025.07.10-11.57.51:831][431]LogSavePackage: Moving output files for package: /Game/Chraricterinnit/NewAnimMontage
+[2025.07.10-11.57.51:831][431]LogSavePackage: Moving '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/NewAnimMontageF7C6C50E42EBB37D36AF74AC0A3C9C18.tmp' to '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Content/Chraricterinnit/NewAnimMontage.uasset'
+[2025.07.10-11.57.51:833][431]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/image] ([1] browsable assets)...
+[2025.07.10-11.57.51:833][431]OBJ SavePackage: Finished generating thumbnails for package [/Game/image]
+[2025.07.10-11.57.51:833][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/image" FILE="../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Content/image.uasset" SILENT=true
+[2025.07.10-11.57.51:841][431]LogSavePackage: Moving output files for package: /Game/image
+[2025.07.10-11.57.51:841][431]LogSavePackage: Moving '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Saved/imageE87EA6784C93201ADAC24CA37C4426F0.tmp' to '../../../../../../Users/kian.hargreaves.787_/Documents/GitHub/MyProject/MyProject/Content/image.uasset'
+[2025.07.10-11.57.51:858][431]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.839 ms (total: 2.36 sec)
+[2025.07.10-11.57.51:891][431]LogContentValidation: Display: Starting to validate 4 assets
+[2025.07.10-11.57.51:891][431]LogContentValidation: Enabled validators:
+[2025.07.10-11.57.51:891][431]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.10-11.57.51:891][431]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.10-11.57.51:891][431]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.10-11.57.51:891][431]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.10-11.57.51:891][431]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.10-11.57.51:891][431]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.10-11.57.51:891][431]AssetCheck: /Game/ui/mainmenu Validating asset
+[2025.07.10-11.57.51:891][431]AssetCheck: /Game/Chraricterinnit/NewAnimBlueprint Validating asset
+[2025.07.10-11.57.51:891][431]AssetCheck: /Game/Chraricterinnit/NewAnimMontage Validating asset
+[2025.07.10-11.57.51:891][431]AssetCheck: /Game/image Validating asset
